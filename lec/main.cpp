@@ -115,32 +115,6 @@ public:
 };
 int main()
 {
-
-   /* map<int,string> myMap;
-    pair<int,string> p(10,"ibrahim");
-    myMap.insert(p);
-    myMap[5] = "ahmed";
-    myMap[15] = "Omar";
-    cout<<myMap[5]<<endl;*/
-    /*
-    set<int>tree;
-    tree.insert(50);
-    tree.insert(30);
-    tree.insert(70);
-    tree.insert(20);
-    tree.insert(10);
-    tree.insert(25);
-    tree.insert(40);
-    tree.insert(35);
-    tree.insert(45);
-    tree.insert(60);
-    //tree.erase(50);
-    set<int>::iterator p;
-    p= tree.begin();
-    while(p!=tree.end()){
-        cout<<*p<<endl;
-        p++;
-    }*/
-
+    cout<<"Hello world"<<endl;
     return 0;
 }
