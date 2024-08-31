@@ -115,6 +115,6 @@ public:
 };
 int main()
 {
-    cout<<"Hello world"<<endl;
+    cout<<"test"<<endl;
     return 0;
 }
